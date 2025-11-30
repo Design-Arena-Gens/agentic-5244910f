@@ -1,0 +1,70 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Complete Industrial Solutions",
+    "subtitle": "We provide the best industrial equipment and materials for your projects",
+    "cta": "Discover Our Products",
+    "contactUs": "Contact Us"
+  },
+  "products": {
+    "title": "Our Industrial Products",
+    "viewDetails": "View Details",
+    "requestQuote": "Request Quote",
+    "categories": {
+      "machinery": "Machinery & Equipment",
+      "materials": "Raw Materials",
+      "tools": "Industrial Tools",
+      "electronics": "Industrial Electronics"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "description": "A leading company in providing integrated industrial solutions",
+    "mission": "Our Mission",
+    "missionText": "Delivering the best industrial products and services with high quality and competitive prices",
+    "vision": "Our Vision",
+    "visionText": "To be the first choice for industrial companies in the region",
+    "values": "Our Values",
+    "quality": "Quality",
+    "qualityText": "We commit to the highest quality standards in all our products",
+    "innovation": "Innovation",
+    "innovationText": "We always strive to provide innovative and advanced solutions",
+    "service": "Customer Service",
+    "serviceText": "Customer satisfaction is our top priority"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're here to answer your inquiries",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "company": "Company Name",
+    "message": "Message",
+    "send": "Send",
+    "info": {
+      "title": "Contact Information",
+      "address": "Address",
+      "addressText": "Industrial Area, Riyadh, Saudi Arabia",
+      "phone": "Phone",
+      "phoneText": "+966 XX XXX XXXX",
+      "email": "Email",
+      "emailText": "info@industrial-commerce.com"
+    }
+  },
+  "footer": {
+    "description": "Your trusted partner for integrated industrial solutions",
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us",
+    "copyright": "© 2024 All Rights Reserved"
+  },
+  "productDetails": {
+    "specifications": "Specifications",
+    "features": "Features",
+    "backToProducts": "Back to Products"
+  }
+}
